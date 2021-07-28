@@ -1,7 +1,7 @@
 {
   "dependencies": {
     "com.siccity.gltfutility": {
-      "version": "file:C:/Users/user/Desktop/StreamLinedDataVisulization/Packages/ForParaviewViewing/GLTFUtility-masterPackage",
+      "version": "file:C:/Users/user/Desktop/SeperateModelViewing/Packages/ForParaviewViewing/GLTFUtility-masterPackage",
       "depth": 0,
       "source": "local",
       "dependencies": {

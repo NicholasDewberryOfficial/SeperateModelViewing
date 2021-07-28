@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "com.siccity.gltfutility": "file:C:/Users/user/Desktop/StreamLinedDataVisulization/Packages/ForParaviewViewing/GLTFUtility-masterPackage",
+    "com.siccity.gltfutility": "file:C:/Users/user/Desktop/SeperateModelViewing/Packages/ForParaviewViewing/GLTFUtility-masterPackage",
     "com.unity.collab-proxy": "1.5.7",
     "com.unity.ide.rider": "2.0.7",
     "com.unity.ide.visualstudio": "2.0.8",
