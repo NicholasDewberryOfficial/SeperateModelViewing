@@ -1,0 +1,152 @@
+{
+   "accessors" : 
+   [
+      {
+         "bufferView" : 0,
+         "byteOffset" : 0,
+         "componentType" : 5126,
+         "count" : 95141,
+         "max" : [ 180.0, 83.623031616210938, 0.0 ],
+         "min" : [ -180.00018310546875, -90.0, 0.0 ],
+         "type" : "VEC3"
+      },
+      {
+         "bufferView" : 1,
+         "byteOffset" : 0,
+         "componentType" : 5121,
+         "count" : 94161,
+         "normalized" : true,
+         "type" : "VEC4"
+      },
+      {
+         "bufferView" : 2,
+         "byteOffset" : 0,
+         "componentType" : 5125,
+         "count" : 188322,
+         "type" : "SCALAR"
+      }
+   ],
+   "asset" : 
+   {
+      "generator" : "VTK",
+      "version" : "2.0"
+   },
+   "bufferViews" : 
+   [
+      {
+         "buffer" : 0,
+         "byteLength" : 1141692,
+         "byteOffset" : 0
+      },
+      {
+         "buffer" : 1,
+         "byteLength" : 376644,
+         "byteOffset" : 0
+      },
+      {
+         "buffer" : 2,
+         "byteLength" : 753288,
+         "byteOffset" : 0
+      }
+   ],
+   "buffers" : 
+   [
+      {
+         "byteLength" : 1141692,
+         "uri" : "buffer543381.bin"
+      },
+      {
+         "byteLength" : 376644,
+         "uri" : "buffer5219616.bin"
+      },
+      {
+         "byteLength" : 753288,
+         "uri" : "buffer5219617.bin"
+      }
+   ],
+   "cameras" : 
+   [
+      {
+         "perspective" : 
+         {
+            "aspectRatio" : 2.0251256281407035,
+            "yfov" : 0.52359877559829882,
+            "zfar" : 676.52334430204019,
+            "znear" : 482.89079720140944
+         },
+         "type" : "perspective"
+      }
+   ],
+   "materials" : 
+   [
+      {
+         "pbrMetallicRoughness" : 
+         {
+            "baseColorFactor" : [ 1.0, 1.0, 1.0, 1.0 ],
+            "metallicFactor" : 0.0,
+            "roughnessFactor" : 1.0
+         }
+      }
+   ],
+   "meshes" : 
+   [
+      {
+         "name" : "mesh0",
+         "primitives" : 
+         [
+            {
+               "attributes" : 
+               {
+                  "COLOR_0" : 1,
+                  "POSITION" : 0
+               },
+               "indices" : 2,
+               "material" : 0,
+               "mode" : 1
+            }
+         ]
+      }
+   ],
+   "nodes" : 
+   [
+      {
+         "mesh" : 0,
+         "name" : "mesh0"
+      },
+      {
+         "camera" : 0,
+         "matrix" : 
+         [
+            -0.7975564843087255,
+            -0.56165784152103782,
+            -0.22010025759874724,
+            0.0,
+            -0.57513605188049866,
+            0.81805046804965087,
+            -0.0034573907878719615,
+            0.0,
+            0.18199498939371472,
+            0.12383012873156768,
+            -0.97547112876491904,
+            0.0,
+            31.220252404737693,
+            -0.32679495146491888,
+            -568.01915593620402,
+            1.0
+         ],
+         "name" : "Camera Node"
+      },
+      {
+         "children" : [ 0, 1 ],
+         "name" : "Renderer Node"
+      }
+   ],
+   "scene" : 0,
+   "scenes" : 
+   [
+      {
+         "name" : "Layer 0",
+         "nodes" : [ 2 ]
+      }
+   ]
+}
